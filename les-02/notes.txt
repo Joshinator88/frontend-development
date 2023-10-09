@@ -1,0 +1,30 @@
+3 elementen standaart:
+- header
+- main
+- footer
+
+header
+- nav
+
+main 
+- content van de pagina
+
+whats in the head :
+- title
+<meta> 
+charset = "..."
+name="description" content="..."
+</meta>
+
+<link>
+rel="stylesheet" href="..."
+rel="icon" href="..."
+</link>
+
+<script></script>
+
+if(condition) {
+    feiwfeufehuorwhuofe
+} else {
+    hdcwoowefoewno
+}

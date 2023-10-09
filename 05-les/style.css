@@ -1,0 +1,17 @@
+.inactive {
+    display: none;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    /* gap: 10px; */
+    border: 2px solid black;
+}
+
+.gridItem {
+    border: 1px solid black;
+}

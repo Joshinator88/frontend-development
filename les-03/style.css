@@ -1,0 +1,5 @@
+.check {
+    background-color: brown;
+    width: calc(60% - 20px - 20px - 2px);
+    height: calc(60% - 20px - 20px - 2px);
+}
